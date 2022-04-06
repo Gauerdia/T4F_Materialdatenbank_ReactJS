@@ -1,0 +1,57 @@
+
+.App-header {
+    background-color: white;
+    color: darkgrey;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+}
+
+.logInPasswordField{
+    margin-top: 5%;
+}
+
+.logInEMailField{
+    margin-top: 5%;
+}
+
+.logInSubmitButton {
+    background-color: darkseagreen;
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 20px 10px;
+    width: 45%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+.notYetRegisteredText{
+    font-size: 18px;
+    padding-bottom: 5%;
+}
+
+.logInHeader{
+    background-color: white;
+    color: black;
+}
+
+.loginMain{
+    background-color: white;
+    color: black;
+}
+
+.logInContentDiv{
+    background-color: white;
+    color: black;
+}
+
+.logInHeadText{
+    color: grey;
+    font-size: 22px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}

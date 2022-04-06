@@ -1,0 +1,161 @@
+
+/*The main division*/
+.App {
+    text-align: center;
+}
+
+.customHeader{
+}
+
+.customHeaderText{
+    font-size: 32px;
+}
+
+.customContentBG{
+    background-color: #282c34;
+    color: white;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+.inputLabel{
+    width: 150px;
+    display: inline-block;
+    text-align: right;
+}
+
+.customTextField{
+    margin-top: 5%
+}
+
+.firstLabel{
+    margin-bottom: 5%;
+}
+
+.midLabel{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+h1 {
+    border-bottom: 1px solid white;
+    color: #3d3d3d;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 10px;
+    text-align: center;
+}
+
+form {
+    background: white;
+    border: 1px solid #dedede;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 30px 50px;
+}
+
+input {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+}
+
+label {
+    color: #3d3d3d;
+    display: block;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.error {
+    color: red;
+    font-family: sans-serif;
+    font-size: 12px;
+    height: 30px;
+}
+
+.submitButton {
+    background-color: darkseagreen;
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin: 20px 0px;
+}
+
+
+
+.createHeader{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: white;
+    color: grey;
+}
+
+
+
+
+/*.leftColumn{*/
+/*    background-color: red;*/
+/*    width: 20%;*/
+/*    float:left;*/
+/*}*/
+
+/*.centerColumn{*/
+/*    background-color: green;*/
+/*    width: 60%;*/
+/*    float: left;*/
+/*}*/
+
+/*.rightColumn{*/
+/*    background-color: yellow;*/
+/*    width: 20%;*/
+/*    float: right;*/
+/*}*/
+
+.testDiv{
+    background-color: #ffa100;
+    width: 60%;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.App-header {
+    /*background-color: #282c34;*/
+    /*min-height: 100vh;*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    /*font-size: calc(10px + 2vmin);*/
+    /*color: white;*/
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

@@ -1,0 +1,86 @@
+
+.mainColumn{
+    width: 70%;
+    float:left;
+    padding-bottom: 5%;
+}
+
+.leftColumn{
+    width: 15%;
+    float:left;
+}
+
+.rightColumn{
+    width: 15%;
+    float:right;
+}
+
+.detailFlexParent{
+    display: flex;
+
+}
+
+.detailFlexCategoryLeft{
+    width: 50%;
+    border-left: 1px solid darkgrey;
+    border-bottom: 1px solid darkgrey;
+    border-top: 1px solid darkgrey;
+}
+
+.detailFlexValueLeft{
+    margin-top: 3%;
+    width: 50%;
+}
+
+.detailFlexValueWhole{
+    margin-top: 3%;
+    width: 100%;
+}
+
+.detailFlexCategoryRight{
+    flex: 1;
+    border-right: 1px solid darkgrey;
+    border-bottom: 1px solid darkgrey;
+    border-top: 1px solid darkgrey;
+}
+
+.detailFlexValueRight{
+    flex:1;
+}
+
+.detailCategoryDiv{
+    background-color: darkseagreen;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+}
+
+.detailValueDiv{
+    padding-bottom: 3%;
+    padding-top: 3%;
+    font-size: 22px;
+}
+
+.profileCategoryText{
+}
+
+.profileMain{
+    background-color: white;
+    color: black;
+}
+
+.profileHeader{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: white;
+    color: black;
+}
+
+.profileMainContent{
+    padding-top: 5%;
+}
+
+.profileHeaderText{
+    font-size: 30px;
+    color: grey;
+}

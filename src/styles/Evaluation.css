@@ -1,0 +1,225 @@
+.MainDiv{
+
+}
+
+.mainColumn{
+    width: 70%;
+    float:left;
+}
+
+.leftColumn{
+    width: 15%;
+    float:left;
+}
+
+.rightColumn{
+    width: 15%;
+    float:right;
+}
+
+.detailsTextHeader{
+    text-decoration: underline;
+    margin-left: 5%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.textValues{
+    font-size: 20px;
+}
+
+
+
+
+.tableNoBorder{
+    border: none;
+}
+
+.tableSecondColumn{
+    width: 50%;
+    border: none;
+    text-align: center;
+}
+
+.DetailsDiv{
+    border: 1px solid #ccc!important;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.detailFlexParent{
+    display: flex;
+}
+
+.detailFlexCategoryLeft{
+    width: 50%;
+    border-left: 1px solid darkgrey;
+    border-bottom: 1px solid darkgrey;
+    border-top: 1px solid darkgrey;
+}
+
+.detailFlexValueLeft{
+    width: 50%;
+    margin-bottom: 3%;
+}
+
+.detailFlexCategoryRight{
+    flex: 1;
+    border-right: 1px solid darkgrey;
+    border-bottom: 1px solid darkgrey;
+    border-top: 1px solid darkgrey;
+}
+
+.detailFlexValueRight{
+    flex:1;
+    margin-top: 3%;
+}
+
+.detailCategoryDiv{
+    background-color: darkseagreen;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.detailCategoryDivWhole{
+    background-color: darkseagreen;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 100%;
+    color: white;
+    width: 100%;
+}
+
+.detailValueDiv{
+    padding-bottom: 3%;
+    padding-top: 3%;
+    font-size: 22px;
+}
+.detailStarDiv{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.publicDetailsHeadline{
+    margin-top: 5%;
+    color: grey;
+    font-size: 22px;
+    margin-bottom: 5%;
+}
+
+
+.publicDetailContactEmail{
+    margin-top: 15%;
+    margin-bottom: 25%;
+}
+
+.publicDetailContactText{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.publicDetailContactButton{
+    margin-top: 4%;
+    background-color: darkseagreen;
+    color: white;
+}
+
+
+
+
+
+/*.commentTable{*/
+/*    border: 1px solid black;*/
+/*    box-shadow: 3px 3px #888888;*/
+/*    width: 50%;*/
+/*    margin-left: 25%;*/
+/*}*/
+
+/*.commentTBody{*/
+/*    padding-bottom: 10%;*/
+/*}*/
+
+
+
+/*.commentDiv{*/
+/*    width: 50%;*/
+/*    margin-left: 25%;*/
+/*    border: 1px solid black;*/
+/*    box-shadow: 3px 3px #888888;*/
+/*    margin-bottom: 2%;*/
+/*}*/
+
+/*.commentLeftColumn{*/
+/*    width: 4%;*/
+/*    float:left;*/
+/*    padding-top: 3px;*/
+/*}*/
+
+/*.commentMiddleColumn{*/
+/*    width: 70%;*/
+/*    float:left;*/
+/*    text-align: left;*/
+/*    padding-left: 1%;*/
+/*    padding-bottom: 4%;*/
+/*}*/
+
+/*.commentRightColumn{*/
+/*    width: 20%;*/
+/*    float:right;*/
+/*    text-align: right;*/
+/*    padding-right: 1%;*/
+/*}*/
+
+/*.commentContent{*/
+/*    padding-top: 3%;*/
+/*    padding-bottom: 3%;*/
+/*    width: 100%;*/
+/*}*/
+
+.evaluationMainDiv{
+    width: 70%;
+    padding-left: 15%;
+}
+
+/*.commentNewCommentButton{*/
+/*    background-color: darkseagreen;*/
+/*    color: white;*/
+/*    font-family: sans-serif;*/
+/*    font-size: 14px;*/
+/*    margin: 20px 0px;*/
+/*    width: 50%;*/
+/*    padding-top: 1%;*/
+/*    padding-bottom: 1%;*/
+/*}*/
+
+/*.commentTextAreaDiv{*/
+/*    padding-top: 5%;*/
+/*}*/
+
+/*.commentTextArea{*/
+/*    border: 1px solid #888;*/
+/*    width: 50%;*/
+/*}*/
+
+/*.commentCreateCommentHeader{*/
+/*    font-size: 22px;*/
+/*    color: grey;*/
+/*    padding-bottom: 3%;*/
+/*}*/
+
+.evaLeftColumn{
+    width: 15%;
+    float:left;
+    padding-left: 15%;
+}
+.evaRightColumn{
+    width: 15%;
+    float:right;
+    padding-right: 15%;
+    padding-bottom: 10%;
+}
+
+.evaOwnEvaDiv{
+    margin-bottom: 15%;
+    padding-bottom: 10%;
+}

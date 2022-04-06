@@ -1,0 +1,70 @@
+.tableDiv{
+
+}
+
+.classificationTR{
+    color: #888888;
+}
+
+.innerTable{
+    border: none;
+}
+.innerTBody{
+    border: none;
+}
+.innerTD{
+    border:none;
+}
+
+.customHeader{
+    background-color: white;
+    color: black;
+}
+
+.customFooter{
+    margin-bottom: 10%;
+    background-color: white;
+}
+
+
+.leftColumn{
+    width: 10%;
+    float:left;
+    background-color: white;
+}
+.centerColumn{
+    width: 80%;
+    float:left;
+}
+.rightColumn{
+    width: 10%;
+    float:right;
+    background-color: white;
+}
+
+
+table{
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+.nameTd{
+    width: 20%;
+}
+
+.authorTd{
+    width: 20%;
+}
+
+.evaluationTd{
+    width: 20%;
+}
+
+.arrowTd{
+    width: 1%;
+}

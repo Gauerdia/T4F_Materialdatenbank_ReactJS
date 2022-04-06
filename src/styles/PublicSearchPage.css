@@ -1,0 +1,108 @@
+.App{
+    background-color: white;
+}
+
+.App-header{
+    background-color: white;
+    color: darkgrey;
+}
+
+
+
+.customTextField{
+    /*margin-right: 1%;*/
+}
+
+table{
+    width: 90%;
+    /*margin-left: 2%;*/
+}
+
+td{
+    border: none;
+    width: 10%;
+}
+
+
+
+.filterDivParent{
+    display: flex;
+}
+
+
+.filterPageHeader{
+    color: darkgrey;
+    font-size: 30px;
+}
+
+.filterMoeglichkeiten{
+    padding-top:10%;
+    color: darkgrey;
+}
+
+.filterErgebnisse{
+    padding-top:2%;
+    color: darkgrey;
+}
+
+.filterDivLeft{
+    width: 20%;
+    border-top: 1px solid grey;
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin-bottom: 2%
+}
+.filterDivRight{
+    flex: 1;
+}
+
+
+.filterNameTd{
+    width: 40%;
+}
+
+.filterAuthorTd{
+    width: 30%;
+}
+
+.filterEvaluationTd{
+    width: 20%;
+}
+
+.filterArrowTd{
+    width: 10%;
+}
+
+.filterTable{
+    border: 1px solid darkgrey;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-top: 2%
+}
+
+.filterResultCategory{
+    font-size: 14px;
+    color: black;
+}
+
+.filterResultText{
+    font-size: 18px;
+}
+
+.filterCategoryRow{
+    padding-left: 50%;
+    margin-top: 50%;
+    background-color: darkseagreen;
+}
+
+.publicSearchTextField{
+    margin-top: 5%
+}
+
+.publicSearchTr{
+    margin-top: 5%;
+}
+
+.publicSearchTd{
+    margin-top: 5%;
+}
